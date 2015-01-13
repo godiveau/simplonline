@@ -1,4 +1,4 @@
-Simplonline
+Simplonline - Gilles Branch
 ==========
 
 ## Plateforme Formation Ouverte à distance de Simplon.co
